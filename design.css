@@ -1,0 +1,38 @@
+body{
+    background-color: rgba(255, 255, 128, .5);
+   
+} 
+
+h1 {
+    font-size: 60px;
+    color: rgb(138, 46, 225);
+    text-decoration: underline;
+    text-shadow: 2px 2px;
+    font-family: "Times New Roman", Times, serif;
+
+}
+
+.options h2 {
+    font-size: 55px;
+    color: rgb(127, 163, 87);
+    text-decoration: underline; 
+    font-family: "Lucida Console", "Courier New", monospace;
+    
+}
+
+#submit{
+    font-size: 25px;
+    padding: 10px;
+    border-radius: 12px;
+    border: none;
+    background-color: aquamarine;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+    display: block;
+    margin-right: auto;
+}
+#submit:hover{
+    
+    background-color: rgb(141, 243, 211);
+
+}
